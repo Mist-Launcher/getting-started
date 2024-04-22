@@ -1,6 +1,5 @@
 # Mist getting started
-<html
-  <iframe src="https://status.mist.tf/badge?theme=dark" width="250" height="30" frameborder="0" scrolling="no"></iframe>
+<iframe src="https://status.mist.tf/badge?theme=dark" width="250" height="30" frameborder="0" scrolling="no"/>
 
 
 Welcome to **Mist**!
