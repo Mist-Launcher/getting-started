@@ -1,9 +1,7 @@
 # Mist getting started
-
-
-
-<iframe src="https://status.mist.tf/badge?theme=dark" width="250" height="30" frameborder="0" scrolling="no"></iframe>
-
+<html>
+  <iframe src="https://status.mist.tf/badge?theme=dark" width="250" height="30" frameborder="0" scrolling="no"></iframe>
+</html>
 Welcome to **Mist**!
 
 Here we will guide you to setup **Mist** for installing mods:
