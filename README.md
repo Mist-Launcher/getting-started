@@ -1,6 +1,6 @@
 # Mist getting started
 
-## THIS IS STILL WORK IN PROGRESS
+## THIS IS STILL WORK IN PROGRESS ⚠️
 
 Welcome to **Mist**!
 
