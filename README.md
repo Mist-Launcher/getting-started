@@ -1,6 +1,6 @@
 # Mist getting started
-<iframe src="https://status.mist.tf/badge?theme=dark" width="250" height="30" frameborder="0" scrolling="no"/>
 
+## THIS IS STILL WORK IN PROGRESS
 
 Welcome to **Mist**!
 
